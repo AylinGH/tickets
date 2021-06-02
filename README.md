@@ -1,3 +1,7 @@
+This repository is based on Angular.
+
+Angular is a platform for creating desktop and mobile web applications.
+
 # Principal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
